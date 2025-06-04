@@ -1,0 +1,110 @@
+[2025-06-02 14:46:07 : INFO] - Full Cache Purge triggered by: WP_Optimize_Minify_Cache_Functions::purge_others 
+[2025-06-02 14:46:31 : INFO] - Full Cache Purge triggered by: WP_Optimize_Minify_Cache_Functions::purge_others 
+[2025-06-02 14:46:49 : INFO] - Full Cache Purge triggered by: WP_Optimize_Minify_Cache_Functions::purge_others 
+[2025-06-03 07:43:05 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=17 has been purged, triggered by action: wp_trash_post 
+[2025-06-03 07:43:05 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=17 has been purged, triggered by action: save_post 
+[2025-06-03 07:43:10 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=9 has been purged, triggered by action: wp_trash_post 
+[2025-06-03 07:43:10 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=9 has been purged, triggered by action: save_post 
+[2025-06-03 07:43:15 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=11 has been purged, triggered by action: wp_trash_post 
+[2025-06-03 07:43:15 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=11 has been purged, triggered by action: save_post 
+[2025-06-03 07:43:21 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=3 has been purged, triggered by action: wp_trash_post 
+[2025-06-03 07:43:21 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=3 has been purged, triggered by action: save_post 
+[2025-06-03 07:53:23 : INFO] - Cache for URL: http://localhost/php/wordpress/?elementor_library=kit-par-defaut has been purged, triggered by action: save_post 
+[2025-06-03 12:08:19 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=33 has been purged, triggered by action: save_post 
+[2025-06-03 12:08:19 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=33 has been purged, triggered by action: save_post 
+[2025-06-03 12:08:22 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 12:08:22 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 12:08:23 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 12:09:35 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=33 has been purged, triggered by action: save_post 
+[2025-06-03 12:09:35 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=33 has been purged, triggered by action: save_post 
+[2025-06-03 12:09:35 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=33 has been purged, triggered by action: save_post 
+[2025-06-03 12:10:36 : INFO] - Cache for URL: http://localhost/php/wordpress/elementor-page-33/ has been purged, triggered by action: save_post 
+[2025-06-03 12:10:36 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:10:37 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:10:47 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:10:47 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:10:47 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:11:01 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:11:01 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:11:01 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:12:59 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:12:59 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:12:59 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: save_post 
+[2025-06-03 12:17:26 : INFO] - Cache for URL: http://localhost/php/wordpress/?p=53 has been purged, triggered by action: save_post 
+[2025-06-03 12:17:26 : INFO] - Cache for previous post (with URL: http://localhost/php/wordpress/2025/06/02/bonjour-tout-le-monde/) adjacent to post with id: 53 has been purged, triggered by action: save_post 
+[2025-06-03 12:17:26 : INFO] - Cache for all archives page associated with post_type: post and Title: "Brouillon auto" have been purged, triggered by action: save_post 
+[2025-06-03 12:17:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-03 12:17:53 : INFO] - Cache for URL: http://localhost/php/wordpress/?p=53 has been purged, triggered by action: save_post 
+[2025-06-03 12:17:53 : INFO] - Cache for previous post (with URL: http://localhost/php/wordpress/2025/06/02/bonjour-tout-le-monde/) adjacent to post with id: 53 has been purged, triggered by action: save_post 
+[2025-06-03 12:17:53 : INFO] - Cache for all archives page associated with post_type: post and Title: "Contact" have been purged, triggered by action: save_post 
+[2025-06-03 12:17:54 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-03 12:17:54 : INFO] - Cache for URL: http://localhost/php/wordpress/?p=53 has been purged, triggered by action: save_post 
+[2025-06-03 12:17:54 : INFO] - Cache for previous post (with URL: http://localhost/php/wordpress/2025/06/02/bonjour-tout-le-monde/) adjacent to post with id: 53 has been purged, triggered by action: save_post 
+[2025-06-03 12:17:54 : INFO] - Cache for all archives page associated with post_type: post and Title: "Contact" have been purged, triggered by action: save_post 
+[2025-06-03 12:18:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-03 12:18:11 : INFO] - Cache for URL: http://localhost/php/wordpress/2025/06/03/contact/ has been purged, triggered by action: save_post 
+[2025-06-03 12:18:11 : INFO] - Cache for previous post (with URL: http://localhost/php/wordpress/2025/06/02/bonjour-tout-le-monde/) adjacent to post with id: 53 has been purged, triggered by action: save_post 
+[2025-06-03 12:18:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Contact" have been purged, triggered by action: save_post 
+[2025-06-03 12:18:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-03 12:18:11 : INFO] - Cache for URL: http://localhost/php/wordpress/2025/06/03/contact/ has been purged, triggered by action: save_post 
+[2025-06-03 12:18:11 : INFO] - Cache for previous post (with URL: http://localhost/php/wordpress/2025/06/02/bonjour-tout-le-monde/) adjacent to post with id: 53 has been purged, triggered by action: save_post 
+[2025-06-03 12:18:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Contact" have been purged, triggered by action: save_post 
+[2025-06-03 12:18:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-03 12:18:12 : INFO] - Cache for URL: http://localhost/php/wordpress/2025/06/03/contact/ has been purged, triggered by action: save_post 
+[2025-06-03 12:18:12 : INFO] - Cache for previous post (with URL: http://localhost/php/wordpress/2025/06/02/bonjour-tout-le-monde/) adjacent to post with id: 53 has been purged, triggered by action: save_post 
+[2025-06-03 12:18:12 : INFO] - Cache for all archives page associated with post_type: post and Title: "Contact" have been purged, triggered by action: save_post 
+[2025-06-03 12:18:55 : INFO] - Cache for URL: http://localhost/php/wordpress/2025/06/03/contact/ has been purged, triggered by action: wp_trash_post 
+[2025-06-03 12:18:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-03 12:18:55 : INFO] - Cache for URL: http://localhost/php/wordpress/?p=53 has been purged, triggered by action: save_post 
+[2025-06-03 12:18:55 : INFO] - Cache for previous post (with URL: http://localhost/php/wordpress/2025/06/02/bonjour-tout-le-monde/) adjacent to post with id: 53 has been purged, triggered by action: save_post 
+[2025-06-03 12:18:55 : INFO] - Cache for all archives page associated with post_type: post and Title: "Contact" have been purged, triggered by action: save_post 
+[2025-06-03 12:18:59 : INFO] - Cache for URL: http://localhost/php/wordpress/2025/06/02/bonjour-tout-le-monde/ has been purged, triggered by action: wp_trash_post 
+[2025-06-03 12:18:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-03 12:18:59 : INFO] - Cache for URL: http://localhost/php/wordpress/?p=1 has been purged, triggered by action: save_post 
+[2025-06-03 12:18:59 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bonjour tout le monde !" have been purged, triggered by action: save_post 
+[2025-06-03 12:19:04 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=59 has been purged, triggered by action: save_post 
+[2025-06-03 12:19:25 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=59 has been purged, triggered by action: save_post 
+[2025-06-03 12:19:39 : INFO] - Cache for URL: http://localhost/php/wordpress/contact/ has been purged, triggered by action: save_post 
+[2025-06-03 12:19:39 : INFO] - Cache for URL: http://localhost/php/wordpress/contact/ has been purged, triggered by action: save_post 
+[2025-06-03 12:19:39 : INFO] - Cache for URL: http://localhost/php/wordpress/contact/ has been purged, triggered by action: save_post 
+[2025-06-03 12:29:48 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 12:29:48 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 12:29:49 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 13:39:23 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 13:39:23 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 13:39:24 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 14:43:37 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 14:43:37 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-03 14:43:38 : INFO] - Cache for URL: http://localhost/php/wordpress/ has been purged, triggered by action: save_post 
+[2025-06-04 08:42:20 : INFO] - Cache for URL: http://localhost/php/wordpress/administratif/ has been purged, triggered by action: wp_trash_post 
+[2025-06-04 08:42:20 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=33 has been purged, triggered by action: save_post 
+[2025-06-04 08:42:28 : INFO] - Cache for URL: http://localhost/php/wordpress/contact/ has been purged, triggered by action: wp_trash_post 
+[2025-06-04 08:42:29 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=59 has been purged, triggered by action: save_post 
+[2025-06-04 08:43:11 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-04 08:43:22 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-04 08:43:51 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-04 08:44:03 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-04 08:44:27 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-04 08:45:40 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-04 08:45:53 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-04 08:47:59 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=83 has been purged, triggered by action: save_post 
+[2025-06-04 08:48:00 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=83 has been purged, triggered by action: save_post 
+[2025-06-04 08:48:55 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=83 has been purged, triggered by action: wp_trash_post 
+[2025-06-04 08:48:55 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=83 has been purged, triggered by action: save_post 
+[2025-06-04 08:50:59 : INFO] - Full Cache Purge triggered by: WP_Optimize_Minify_Cache_Functions::purge_others 
+[2025-06-04 09:01:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-04 09:01:47 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=89 has been purged, triggered by action: save_post 
+[2025-06-04 09:21:57 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=90 has been purged, triggered by action: save_post 
+[2025-06-04 09:22:43 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=91 has been purged, triggered by action: save_post 
+[2025-06-04 09:23:28 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=91 has been purged, triggered by action: save_post 
+[2025-06-04 09:23:33 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=91 has been purged, triggered by action: save_post 
+[2025-06-04 09:24:53 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=91 has been purged, triggered by action: save_post 
+[2025-06-04 09:24:53 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=91 has been purged, triggered by action: save_post 
+[2025-06-04 09:24:53 : INFO] - Cache for URL: http://localhost/php/wordpress/?page_id=91 has been purged, triggered by action: save_post 
+[2025-06-04 09:27:10 : INFO] - Cache for URL: http://localhost/php/wordpress/mentions-legales/ has been purged, triggered by action: save_post 
+[2025-06-04 09:27:10 : INFO] - Cache for URL: http://localhost/php/wordpress/mentions-legales/ has been purged, triggered by action: save_post 
+[2025-06-04 09:27:10 : INFO] - Cache for URL: http://localhost/php/wordpress/mentions-legales/ has been purged, triggered by action: save_post 
+[2025-06-04 10:17:03 : INFO] - Full Cache Purge triggered by: WP_Optimize_Minify_Cache_Functions::purge_others 
+[2025-06-04 10:58:56 : INFO] - Cache for URL: http://localhost/php/wordpress/mentions-legales/ has been purged, triggered by action: save_post 
+[2025-06-04 10:58:57 : INFO] - Cache for URL: http://localhost/php/wordpress/mentions-legales/ has been purged, triggered by action: save_post 
+[2025-06-04 10:58:58 : INFO] - Cache for URL: http://localhost/php/wordpress/mentions-legales/ has been purged, triggered by action: save_post 
