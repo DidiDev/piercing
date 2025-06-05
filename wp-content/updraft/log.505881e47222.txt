@@ -1,0 +1,143 @@
+0000.001 (0) Opened log file at time: Wed, 04 Jun 2025 13:56:09 +0000 on http://localhost/php/wordpress
+0000.012 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.1 PHP: 8.2.12 (apache2handler, Windows NT ORDI-BUREAU 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 88.8M | 90M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: N
+0000.018 (0) Free space on disk containing Updraft's temporary directory: 288099.2 MB
+0000.039 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.055 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.063 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2025-06-04 13:56:09
+0000.069 (0) Semaphore (fd, wp_options) reset to 1
+0000.074 (0) Set semaphore last lock (fd) time to 2025-06-04 13:56:09
+0000.078 (0) Semaphore lock (fd) complete
+0000.101 (0) Backup run: resumption=0, nonce=505881e47222, file_nonce=505881e47222 begun at=1749045369 (0s ago), job type=backup
+0000.109 (0) Scheduling a resumption (1) after 300 seconds (1749045669) in case this run gets aborted
+0000.155 (0) Checking if we have a zip executable available
+0000.167 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.170 (0) Creation of backups of directories: beginning
+0000.188 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0021.170 (0) Total entities for the zip file: 2090 directories, 9695 files (0 skipped as non-modified), 174 MB
+0021.176 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 178125 KB, split: 409600 KB)
+0021.361 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.511 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0021.684 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0021.846 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0022.037 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0022.240 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0022.412 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0022.613 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0022.792 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0022.967 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0023.168 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0023.346 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0023.523 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0023.745 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0023.925 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0024.122 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0024.308 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0024.496 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0024.696 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0024.888 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0025.078 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0025.309 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0025.498 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0025.695 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0025.912 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0026.100 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0026.292 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0026.480 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0026.680 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0026.869 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0027.040 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0027.225 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0027.420 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0027.595 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0027.803 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0028.001 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0028.193 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0028.338 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0028.509 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0028.706 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0028.881 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0029.068 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0029.275 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0029.462 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0029.641 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0029.834 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0030.028 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0030.253 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0030.424 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0030.608 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0030.814 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0031.004 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0031.219 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0031.419 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0031.592 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0031.777 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0031.955 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0032.132 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0032.326 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0032.506 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0032.704 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0032.876 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0033.046 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0033.264 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0033.473 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0033.692 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0033.899 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0034.111 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0034.325 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0034.516 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7000 files added (on-disk size: 0 KB)
+0034.708 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7100 files added (on-disk size: 0 KB)
+0034.917 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7200 files added (on-disk size: 0 KB)
+0035.100 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7300 files added (on-disk size: 0 KB)
+0035.289 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7400 files added (on-disk size: 0 KB)
+0035.492 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7500 files added (on-disk size: 0 KB)
+0035.659 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7600 files added (on-disk size: 0 KB)
+0035.798 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7700 files added (on-disk size: 0 KB)
+0035.934 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7800 files added (on-disk size: 0 KB)
+0036.084 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 7900 files added (on-disk size: 0 KB)
+0036.237 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8000 files added (on-disk size: 0 KB)
+0036.436 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8100 files added (on-disk size: 0 KB)
+0036.592 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8200 files added (on-disk size: 0 KB)
+0036.755 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8300 files added (on-disk size: 0 KB)
+0036.903 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8400 files added (on-disk size: 0 KB)
+0037.051 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8500 files added (on-disk size: 0 KB)
+0037.209 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8600 files added (on-disk size: 0 KB)
+0037.358 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8700 files added (on-disk size: 0 KB)
+0037.512 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8800 files added (on-disk size: 0 KB)
+0037.655 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 8900 files added (on-disk size: 0 KB)
+0037.806 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 9000 files added (on-disk size: 0 KB)
+0037.952 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 9100 files added (on-disk size: 0 KB)
+0038.099 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 9200 files added (on-disk size: 0 KB)
+0038.258 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 9300 files added (on-disk size: 0 KB)
+0038.432 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 9400 files added (on-disk size: 0 KB)
+0038.605 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 9500 files added (on-disk size: 0 KB)
+0038.777 (0) Zip: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp: 9600 files added (on-disk size: 0 KB)
+0305.811 (1) Opened log file at time: Wed, 04 Jun 2025 14:01:14 +0000 on http://localhost/php/wordpress
+0305.819 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.1 PHP: 8.2.12 (apache2handler, Windows NT ORDI-BUREAU 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 83.3M | 90M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: N
+0305.824 (1) Free space on disk containing Updraft's temporary directory: 288038.9 MB
+0305.828 (1) Requesting backup semaphore lock (505881e47222)
+0305.837 (1) [Debug] Lock option (updraft_lock_505881e47222, wp_options) was created in the database
+0305.840 (1) [Info] Lock (updraft_lock_505881e47222, wp_options) acquired after initialising the database
+0305.848 (1) Backup run: resumption=1, nonce=505881e47222, file_nonce=505881e47222 begun at=1749045369 (305s ago), job type=backup
+0305.855 (1) Scheduling a resumption (2) after 300 seconds (1749045974) in case this run gets aborted
+0305.892 (1) Checking if we have a zip executable available
+0305.898 (1) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0305.902 (1) Creation of backups of directories: had begun; will resume
+0305.912 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0305.927 (1) Terminate: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1749045674, time_now=1749045674, diff=0, size=30647.6KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+0305.934 (1) Rescheduling resumption 2: moving to 420 seconds from now (1749046095)
+0305.945 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 120 = 420
+1023.080 (2) Opened log file at time: Wed, 04 Jun 2025 14:13:12 +0000 on http://localhost/php/wordpress
+1023.090 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.1 PHP: 8.2.12 (apache2handler, Windows NT ORDI-BUREAU 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 83.5M | 90M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: N
+1023.097 (2) Free space on disk containing Updraft's temporary directory: 288033.1 MB
+1023.102 (2) Requesting backup semaphore lock (505881e47222)
+1023.107 (2) [Info] Lock (updraft_lock_505881e47222, wp_options) acquired
+1023.114 (2) Backup run: resumption=2, nonce=505881e47222, file_nonce=505881e47222 begun at=1749045369 (1023s ago), job type=backup, previous check-in=0.11s
+1023.130 (2) Scheduling a resumption (3) after 420 seconds (1749046812) in case this run gets aborted
+1023.202 (2) Checking if we have a zip executable available
+1023.215 (2) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+1023.219 (2) Creation of backups of directories: had begun; will resume
+1023.235 (2) Beginning creation of dump of plugins (split every: 400 MB)
+1023.243 (2) Deleting old temporary file: pclzip-684050f55e326.tmp
+1023.306 (2) Terminate: backup_2025-06-04-1556_Mumy_Piercing_505881e47222-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1749046391, time_now=1749046392, diff=1, size=45746.9KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+1023.313 (2) Rescheduling resumption 3: moving to 540 seconds from now (1749046932)
+1023.334 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 420 + 120 = 540
